@@ -1,4 +1,4 @@
-# demo
+# Calculator
 This is my first git Repository.
 <br> 
 Author Deshaval Siddharth
